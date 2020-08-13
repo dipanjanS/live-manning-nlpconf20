@@ -2,6 +2,10 @@
 
 ![](https://i.imgur.com/eX2fqR2.png)
 
+# Conference Recording
+
+[![Watch the video](https://i.imgur.com/gV5JYvD.gif)](https://www.youtube.com/watch?v=YdMBPKZpHas)
+
 ## Deep Transfer Learning for Natural Language Processing
 
 Papers, code and slides for my session at the live@Manning NLP conference, 2020 covering my talk on Deep Transfer Learning for Natural Language Processing
